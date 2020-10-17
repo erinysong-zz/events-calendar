@@ -20,7 +20,7 @@ body {
 .events-grid {
   width: 100%;
   display: grid;
-  grid-template-columns: 15% repeat(6, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   column-gap: 5px;
 }
 
