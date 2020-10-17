@@ -5,6 +5,11 @@ Time spent on assignment: 6 hours
 * 2 hours on zoom feature and attempts at additional stretch features.
 * 0.5 hour styling/refactoring and cleaning up code
 
+### Feature Breakdown
+The timeline takes in a JSON file of events each with a name, start date, and end date, and displays them on a timeline in which the user can view all events 
+that are occurring at a particular point in time. Events with the same name are displayed in the same color, and a zoom function allows the user to view up to 
+9 days of events at once.
+
 ### What I liked
 In terms of implementation, I liked how I used helper functions to sanitize and format information in a way that is more practical to use when 
 performing certain functions such as displaying the date on the event page or calculating where on the grid the event block should be located. Although they 
